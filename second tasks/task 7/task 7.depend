@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1561494042 source:d:\ebeded course\c programing\session 3\task 7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1561494449 source:d:\ebeded course\c programing\session 3\task 7\func2.c
+	<stdio.h>
+	<stdlib.h>
+

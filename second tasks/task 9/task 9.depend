@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561571749 source:d:\ebeded course\c programing\session 3\task 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"macros.h"
+
+1561570237 d:\ebeded course\c programing\session 3\task 9\macros.h
+
